@@ -1,0 +1,2 @@
+13-12-22 12:47 -> connection error: MongoAPIError: URI must include hostname, domain name, and tld
+13-12-22 12:48 -> connected to mongoDB
