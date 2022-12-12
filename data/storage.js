@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const Path = require('path');
-const Logger = require('../logger/Logger');
+const Logger = require('../logger/logger');
 const logger = new Logger();
 
 const options = {

@@ -1,4 +1,4 @@
-const Logger = require("../logger/Logger");
+const Logger = require("../logger/logger");
 const UsersRepository = require("../repositories/usersRepository");
 const logger = new Logger();
 const usersRepository = new UsersRepository();
